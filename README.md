@@ -2,11 +2,12 @@
 
 Tooltip component is based on [hint.css](https://github.com/chinchang/hint.css) for Vue Bulma.
 
+Fork of [vue-bulma/tooltip](https://github.com/vue-bulma/tooltip)
 
 ## Installation
 
 ```
-$ npm install vue-bulma-tooltip --save
+$ yarn add https://github.com/Andersbiha/vue-bulma-tooltip
 ```
 
 
@@ -31,16 +32,3 @@ export default {
 }
 </script>
 ```
-
-
-## Badges
-
-![](https://img.shields.io/badge/license-MIT-blue.svg)
-![](https://img.shields.io/badge/status-stable-green.svg)
-
----
-
-> [fundon.me](https://fundon.me) &nbsp;&middot;&nbsp;
-> GitHub [@fundon](https://github.com/fundon) &nbsp;&middot;&nbsp;
-> Twitter [@_fundon](https://twitter.com/_fundon)
-
