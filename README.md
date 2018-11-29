@@ -7,7 +7,7 @@ Fork of [vue-bulma/tooltip](https://github.com/vue-bulma/tooltip)
 ## Installation
 
 ```
-$ yarn add https://github.com/Andersbiha/vue-bulma-tooltip
+$ npm install --save https://github.com/Almendio/vue-bulma-tooltip
 ```
 
 

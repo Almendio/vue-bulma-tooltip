@@ -19,7 +19,7 @@
   "author": "Fangdun Cai <cfddream@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "classnames": "2.2.5",
-    "hint.css": "2.4.1"
+    "classnames": "2.2.6",
+    "hint.css": "2.5.1"
   }
 }
